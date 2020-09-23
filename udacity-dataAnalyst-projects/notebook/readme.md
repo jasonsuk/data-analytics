@@ -1,1 +1,1 @@
-Include all Jupyter Notebook files that compiles codes used for the courses.
+This directory includes a review of some coursework, on Jupyter notebook using Python.
