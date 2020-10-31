@@ -1,4 +1,4 @@
-## Udacity Data Analysis Nano Degree
+## Data Analytics Projects
 
 This repo include pythons codes on Jupiter Notebooks submitted for Udacity data analyst projects.
 
