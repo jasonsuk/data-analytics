@@ -16,4 +16,10 @@ Includes :
 - Branstormed some business questions to answer using database query  
 - Tools used: PostgreSQL 
 
+### `Project 3` | Build Data Dashboards
+
+- Cleaned a Youtube data to improve the quality of analysis.
+- Visualized the exploratory data analysis in three different design forms : worksheet, storyboard and dashboard.
+- Represented a summary of findings with link to the Tableau Public (can be found in a pdf document).
+- Tools used: Tableau
 
