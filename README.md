@@ -18,6 +18,10 @@ Each directory categories into different source of learning and works.
 
    Project works submitted to pass Data Analysis Nano Degree (Udacity). Python libraries used to perform data wrangling and visualization.
 
+- **`Side Projects`** : Work in progress
+
+   Self-interested projects to apply the learnings
+
 - **`Statistics`** : New - Work in process. 
 
    To include statistical analysis using Python.
