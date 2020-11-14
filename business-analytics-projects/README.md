@@ -23,6 +23,6 @@ Includes :
 - Represented a summary of findings with link to the Tableau Public (can be found in a pdf document).
 - Tools used: Tableau
 
-###`Side Projects` | Work in progress
+### `Side Projects` | Work in progress
 
    Self-interested projects to apply the learnings
