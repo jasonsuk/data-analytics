@@ -14,7 +14,7 @@ Each directory categories into different source of learning and works.
   
   Project works submitted to pass Business Analysis Nano Degree (Udacity). Microsoft Excel, PostreSQL and Tableau used for business topics.
 
-- **`Applied Data Science`** : Completed - to refactor!
+- **`Data Analytics Projects`** : Completed - to refactor!
 
    Project works submitted to pass Data Analysis Nano Degree (Udacity). Python libraries used to perform data wrangling and visualization.
 
