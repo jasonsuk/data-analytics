@@ -16,11 +16,15 @@ Each directory categories into different source of learning and works.
 
 - **`Data Analytics Projects`** : Completed - to refactor!
 
-   Project works submitted to pass Data Analysis Nano Degree (Udacity). Python libraries used to perform data wrangling and visualization.
+  Project works submitted to pass Data Analysis Nano Degree (Udacity). Python libraries used to perform data wrangling and visualization.
+
+-- **`Side Projects`**
+
+  The directory contains self-created projects for random domain of interest.
 
 - **`Statistics`** : New - Work in process. 
 
-   To include statistical analysis using Python.
+  To include statistical analysis using Python.
   
 - **`Web Scraping`** : Completed
 
